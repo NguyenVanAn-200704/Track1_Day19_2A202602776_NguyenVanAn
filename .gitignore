@@ -1,0 +1,14 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+# Private participant recordings and source transcripts
+sources/
+recordings/
+*.m4a
+*.wav
+*.mp3
